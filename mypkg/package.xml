@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <name>mypkg</name>
+  <version>1.0.0</version>
+  <description>coment system</description>
+  <maintainer email="s1426080MX@s.chibakoudai.jp">Ryuichi Ueda, Kousiro Tanimoto</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <run_depend>rospy</run_depend>
+</package>
