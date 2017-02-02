@@ -7,4 +7,4 @@
  
  uedasennsei
  
- 上記の文字列を入力し、enterkeyを押すと、コメントがPublisherからPublishされ、Subscriberがログとして表示する。また、プログラムを詳細をpackage.xmlに記述してある。
+ 上記の文字列を入力し、enterkeyを押すと、コメントがPublisherからPublishされ、Subscriberがそれを参照し，ログとして表示する。また、プログラムの詳細をpackage.xmlに記述してある。
